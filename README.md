@@ -1,6 +1,10 @@
 Azure IoT Technical Readiness Catalog
 
-Work in Progress.Add Link to your resources here:
+Work in Progress. Add Link to your resources below.
+
+Hands on Labs:
+
+Demos:
 
 
 # Contributing
