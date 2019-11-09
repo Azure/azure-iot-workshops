@@ -1,11 +1,12 @@
-Azure IoT Technical Readiness Catalog
+# Azure IoT Technical Readiness Catalog
 
 Work in Progress. Add Link to your resources below.
 
-Hands on Labs:
+## Hands-On Labs
 
-Demos:
+* [Real-time asset tracking](https://aka.ms/iot-workshop/asset-tracking) - End-to-end workshop focusing on a real-time asset tracking scenario. Covers IoT services such as Azure IoT Hub, DPS, Stream Analytics, Azure Maps, Time Series Insights.
 
+## Demos
 
 # Contributing
 
