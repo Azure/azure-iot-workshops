@@ -5,6 +5,8 @@ Work in Progress. Add Link to your resources below.
 ## Hands-On Labs
 
 * [Real-time asset tracking](https://aka.ms/iot-workshop/asset-tracking) - End-to-end workshop focusing on a real-time asset tracking scenario. Covers IoT services such as Azure IoT Hub, DPS, Stream Analytics, Azure Maps, Time Series Insights.
+* [Quality Assurance](https://aka.ms/iot-workshop/quality-assurance) - End-to-end IoT workshop focusing on a quality assurance scenario powered by computer vision and AI. The solution is built on top of Azure IoT Edge (real-time computer vision is done using the NVIDIA Deepstream framework), and uses Azure IoT Central for the server infrastructure.
+
 
 ## Demos
 
